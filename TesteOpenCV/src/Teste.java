@@ -8,7 +8,11 @@ import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import org.opencv.highgui.VideoCapture;
 
-
+/**
+ * 
+ * @author Ronyerison
+ *
+ */
 public class Teste {
 	public static void main(String[] args) throws Exception {
 		JFrame frame = new JFrame("Capturar imagem webcam");
